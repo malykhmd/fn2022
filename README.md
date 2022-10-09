@@ -14,4 +14,5 @@ List of main files:
 * ginv.cpython-39-x86_64-linux-gnu.so -- Version of GInv for Fedora 34
 * example-sage.ipynb -- two systems of algebaric equations solved in sage
 * example-ginv.ipynb -- example of finding the Grebner basis in GInv
+
 If you have any questions, write: festival-nauki-v-rudn-2022@yandex.ru. 
