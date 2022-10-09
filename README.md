@@ -5,6 +5,7 @@
 * ginv.cpython-39-x86_64-linux-gnu.so -- Сборка GInv для Fedora 34
 * example-sage.ipynb -- две системы алгебраических уравнений, решенных в sage
 * example-ginv.ipynb -- пример отыскания базиса Гребнера в GInv
+
 При возникновении вопросов, пишите: festival-nauki-v-rudn-2022@yandex.ru. 
 
 # RUDN Science Festival
